@@ -51,13 +51,7 @@ This project uses a local TypeScript file (`app/data/data.ts`) to simulate produ
 - Enjoy a responsive design on any device, styled with Tailwind CSS.
 
 ## Demo
-Live demo: [https://next-store.vercel.app](https://next-store.vercel.app) (Update with your Vercel link after deployment)
-
-## Screenshots
-![Homepage](screenshots/homepage.png)  
-![Product Modal](screenshots/product-modal.png)  
-![Cart Modal](screenshots/cart-modal.png)  
-(Add screenshots of your project in a `screenshots/` folder and update the paths)
+Live demo: Deployment in progress (awaiting Vercel verification, contact made with registration@vercel.com)
 
 ## Project Structure
 ```
